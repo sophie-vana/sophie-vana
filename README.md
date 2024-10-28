@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently working in Web Development<br>👀 I’m interested in Video Game and Accessibility Software development<br>💞️ I’m looking to collaborate on beginner-level game jams<br>📫 How to reach me: sophiavnas@gmail.com<br>👽 LinkedIn: www.linkedin.com/in/sophia-van-aswegen-329900267<br>😄 Pronouns: she/they
+# ☕ About Me:
+🌱 Frontend Developer<br>👀 I’m interested in Video Game and Accessibility Software development<br>💞️ I’m looking to collaborate on beginner-level game jams<br>📫 How to reach me: sophiavnas@gmail.com<br>👽 LinkedIn: www.linkedin.com/in/sophia-van-aswegen-329900267<br>😄 Pronouns: she/they
 
 
 ## 🌐 Socials:
